@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KulinerTegalan</string>
+    <string name="kuliner_name">Nama Kuliner</string>
+    <string name="detail">Detail</string>
+    <string name="About">About</string>
+    <string name="harga">Rp.</string>
+    <string name="alamat">Alamat</string>
+</resources>
